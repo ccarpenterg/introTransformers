@@ -1,6 +1,8 @@
 Introduction to Transformers
 ============================
 
+### 1a) Introduction to Attention and Transformers
+
 ## References
 
 **Lectures and Presentations**

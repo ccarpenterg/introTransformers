@@ -3,6 +3,8 @@ Introduction to Transformers
 
 ### 1a) Introduction to Attention and Transformers
 
+Notebook: ([Jupyter notebook](https://nbviewer.jupyter.org/github/ccarpenterg/introTransformers/blob/master/01a_introduction_NLP_transformers.ipynb)) ([github](https://github.com/ccarpenterg/introTransformers/blob/master/01a_introduction_NLP_transformers.ipynb))
+
 ## References
 
 **Lectures and Presentations**

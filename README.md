@@ -17,16 +17,18 @@ Notebook: ([Jupyter notebook](https://nbviewer.jupyter.org/github/ccarpenterg/in
 
 [4] LSTM is dead. Long Live Transformers ([video](https://www.youtube.com/watch?v=S27pHKBEp30)). Seattle Applied Deep Learning.
 
+[5] Attention and Transformer Networks ([slides](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/slides/cs480-lecture19.pdf)) ([video](https://www.youtube.com/watch?v=OyFJWRnt_AY)). CS489 Introduction to Machine Learning, University of Waterloo
+
 **NLP Books**
 
-[5] Speech and Language Processing ([3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/)). Dan Jurafsky, James H. Martin
+[6] Speech and Language Processing ([3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/)). Dan Jurafsky, James H. Martin
 
-[6] Dive into Deep Learning ([online version](https://d2l.ai/)). Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
+[7] Dive into Deep Learning ([online version](https://d2l.ai/)). Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
 
-[7] Deep Learning ([online version](https://www.deeplearningbook.org/)). Ian Goodfellow, Yoshua Bengio, AAron Courville
+[8] Deep Learning ([online version](https://www.deeplearningbook.org/)). Ian Goodfellow, Yoshua Bengio, AAron Courville
 
 **Papers**
 
-[8] Neural Machine Translation by Jointly Learning to Align and Translate. [Bahdanau 2016](https://arxiv.org/pdf/1409.0473.pdf)
+[9] Neural Machine Translation by Jointly Learning to Align and Translate. [Bahdanau 2016](https://arxiv.org/pdf/1409.0473.pdf)
 
-[9] Attention is All You Need, [Vaswani 2017](https://arxiv.org/pdf/1706.03762.pdf).
+[10] Attention is All You Need, [Vaswani 2017](https://arxiv.org/pdf/1706.03762.pdf).
